@@ -7,8 +7,8 @@ Especificaciones Técnicas
 Manual de usuario
 - Luego de ejecutar npm start el proyecto debe estar corriendo en localhost:5000
 - Endpoints disponibles para hacer las pruebas:
+
       "/rd/squareone", 
-      
       "/rd/kfc",
       "/rd/fridays",
       "/rd/tacobell",
